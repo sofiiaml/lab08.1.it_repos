@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest8.1.re.cpp
+C:\Users\User\Desktop\АП\PR08.1\UnitTest8.1.re\UnitTest8.1.re.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\User\Desktop\АП\PR08.1\UnitTest8.1.re\UnitTest8.1.re.cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\User\Desktop\АП\PR08.1\UnitTest8.1.re\UnitTest8.1.re.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\User\Desktop\АП\PR08.1\UnitTest8.1.re\UnitTest8.1.re.cpp(1,1): message : Add macro to precompiled header instead of defining here
+C:\Users\User\Desktop\АП\PR08.1\UnitTest8.1.re\UnitTest8.1.re.cpp(2,1): message : use of precompiled header
+C:\Users\User\Desktop\АП\PR08.1\PR08.1\PR08.1.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\User\Desktop\АП\PR08.1\PR08.1\PR08.1.cpp(2,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+     Creating library C:\Users\User\Desktop\АП\PR08.1\x64\Debug\UnitTest8.1.re.lib and object C:\Users\User\Desktop\АП\PR08.1\x64\Debug\UnitTest8.1.re.exp
+  UnitTest8.1.re.vcxproj -> C:\Users\User\Desktop\АП\PR08.1\x64\Debug\UnitTest8.1.re.dll
